@@ -2,11 +2,11 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Tokyonight (Night)
-thm_bg="#1a1b26"
+thm_bg="#1d1e29"
 thm_fg="#c0caf5"
 thm_cyan="#7dcfff"
-thm_black="#1f2336"
-thm_gray="#40486a"
+thm_black="#1a1b26"
+thm_gray="#24283b"
 thm_magenta="#bb9af7"
 thm_pink="#ff75a0"
 thm_red="#f7768e"
